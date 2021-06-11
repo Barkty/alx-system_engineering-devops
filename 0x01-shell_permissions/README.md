@@ -1,0 +1,1 @@
+learning basic scripting in bash
